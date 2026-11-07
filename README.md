@@ -1,2 +1,2 @@
 # thingy
-Made on a chromebook, somehow
+Made on a chromebook, somehow.
